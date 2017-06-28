@@ -1,0 +1,26 @@
+body{
+	font-family: 'Roboto', sans-serif;
+	background-color: #e8e8e8;
+}
+
+nav{
+	background-color: #ffbb00;
+	box-shadow: none;
+	width: 
+}
+nav .brand-logo{
+	color: black;
+	padding-left: 40px;
+	font-weight: bolder;
+}
+
+.cajita{
+	background-color: whitesmoke;
+}
+
+.btn-floating{
+	background-color: #ffbb00;
+}
+.btn-floating i{
+	color: black;
+}
