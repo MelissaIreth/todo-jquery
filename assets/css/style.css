@@ -24,3 +24,14 @@ nav .brand-logo{
 .btn-floating i{
 	color: black;
 }
+
+label{
+	padding-left: 10px;
+	font-size: 1.2em;
+	color: #585755;
+}
+
+[type="checkbox"]+label{
+	line-height: 21px;
+}
+	
